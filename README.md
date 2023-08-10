@@ -6,7 +6,8 @@ This project utilizes React to create a new portfolio to display my projects and
 
 ## Installation
 
-Follow this link to access the portfolio: 
+Follow this link to access the portfolio: https://sydneyloggins.github.io/react-portfolio/ 
+
 
 ## Usage
 ![Screenshot 2023-08-10 at 9 51 42 AM](https://github.com/sydneyloggins/react-portfolio/assets/125998308/4ad7e045-c7b5-419e-8e94-f0080a717ac0)
